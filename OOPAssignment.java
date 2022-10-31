@@ -1,7 +1,4 @@
 package oopassignment;
-//GROUP NAME: 
-//REGISTRATION NUMBER: SCM 211-0306/2021
-//MY NAME: Patience Wanjiku Ndirangu
 
 import java.awt.*;
 
